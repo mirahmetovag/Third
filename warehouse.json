@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "cabbage",
+    "amount": 40
+  },
+  {
+    "id": 2,
+    "name": "tomato",
+    "amount": 40
+  },
+  {
+    "id": 3,
+    "name": "carrot",
+    "amount": 60
+  }
+]
